@@ -21,6 +21,9 @@ Lab experiments were done using an inverted pendulum on a cart.
 ## Built With
 
 * [Matlab](http://matlabacademy.mathworks.com/) - The numerical computation environment used
+* [Quanser QNET DC Motor](https://www.quanser.com/products/qnet-2-0-dc-motor-board/) - The versatile servo system used
+
+![Quanser QNET DC Motor](Qnet%20DC%20Motor%20onboard%20NI%20Elvis%20II.jpg)
 
 ## Authors
 

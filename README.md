@@ -1,5 +1,4 @@
-# [ECSE307--Linear-Systems-And-Control ](https://www.mcgill.ca/study/2018-2019/courses/ecse-403)
-
+# [ECSE307--Linear-Systems-And-Control ](https://www.mcgill.ca/study/2017-2018/courses/ecse-307)
 
 This reopository contains the laboratory projects done for the course ECSE 307, using Matlab.
 
@@ -7,19 +6,17 @@ This reopository contains the laboratory projects done for the course ECSE 307, 
 
 Lab experiments were done using an inverted pendulum on a cart.
 
-* **Lab0** - **Introduction**
+*	[**Lab1**](Lab%201/Lab%20Report%201.pdf) - Introduction to Matlab
 
-*	[**Lab1**](Lab%201/Lab%201%20Report.pdf) - Designed and implemented linear controllers in Matlab, with a mathematical model of the system.
+*	[**Lab2**](Lab%202/Lab2_Group6_Faruk_Shobeiri.pdf) - Identification of a Dynamical System
 
-*	[**Lab2**](Lab%202/LAB2_Report_ECSE403.pdf) - Used signal generators in Simulink to get the reponse of the system with linear controllers.
+*	[**Lab3**](Lab%203/Lab%203%20Report.pdf) - Identification of Qnet DC Motor
 
-*	[**Lab3**](Lab%203/Lab%203%20Report.pdf) - Experimentally identified system parameters/scaling.
+*	[**Lab4**](Lab%204/Lab%204%20Report.pdf) - PID Controller Design
 
-*	[**Lab4**](Lab%204/Lab%20Report%204.pdf) - Observed the response with P,PI,PD, and PID controllers for cart's position system
+*	[**Lab5**](Lab%205/Lab%205%20Report.pdf) - Speed Control of Qnet DC Motor
 
-*	[**Lab5**](Lab%205/Lab%205%20-%20Report.pdf) - Designed and implemented LEAD and LAG compensators for cart's position system
-
-*	[**Lab6**](Lab%205/Lab%205%20-%20Report.pdf) - Designed and implemented LEAD and LAG compensators for cart's position system
+*	[**Lab6**](Lab%206/Lab%206%20Report.pdf) - Speed and Angle Control of the Qnet DC Motor
 
 ## Built With
 
@@ -31,4 +28,3 @@ Lab experiments were done using an inverted pendulum on a cart.
 * [**Ali Shobeiri**](https://github.com/alishobeiri)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-

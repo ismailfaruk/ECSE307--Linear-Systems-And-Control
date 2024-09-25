@@ -8,7 +8,7 @@ Lab experiments were done using an inverted pendulum on a cart.
 
 *	[**Lab1**](Lab%201/Lab%20Report%201.pdf) - Introduction to Matlab
 
-*	[**Lab2**](Lab%202/Lab2_Group6_Faruk_Shobeiri.pdf) - Identification of a Dynamical System
+*	[**Lab2**](Lab%202/Lab%202%20Report.pdf) - Identification of a Dynamical System
 
 *	[**Lab3**](Lab%203/Lab%203%20Report.pdf) - Identification of Qnet DC Motor
 
